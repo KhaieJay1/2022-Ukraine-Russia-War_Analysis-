@@ -45,7 +45,7 @@
 
 # Links
 #### • [Dashboard Tableau Mobile Version](https://public.tableau.com/views/RussianLossesintheRussia-UkraineConflictMobileVersion1/NewMobile?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-#### • [Tableau Desktop Version](https://public.tableau.com/views/RussianLossesintheRussia-UkraineConflictAsofFeb_152025/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+#### • [Tableau Desktop Version](https://public.tableau.com/views/RussianLossesintheRussia-UkraineConflictAsofFebruary1520251/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 #### • [Dataset_Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war) 
 #### • [GoogleSheets](https://docs.google.com/spreadsheets/d/1FnrAmws5g9HD-kS4f2aR_FM4o8xexAu67RC8bAhNx6w/edit?usp=sharing) 
 #### • [YouTube](https://www.youtube.com/watch?v=fSZU0nCG1jU) 
